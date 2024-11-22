@@ -25,7 +25,7 @@ author:
   name             : "Tongmiao Xu"
   pronouns         : "she/her"  
   bio              : "XJTU"
-  location         : "Earth"
+  location         : #"Earth"
   employer         : "National University of Singapore"
   uri              : #"https://Tamphie.github.io"
   email            : "xtongmiao@gmail.com" 
