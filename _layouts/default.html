@@ -59,7 +59,7 @@
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
-              <img style="width:100%;max-width:100%" alt="profile photo" src="images/mid.png">
+              <img style="width:100%;max-width:100%" alt="profile photo" src="tn/images/mid.png">
             </td>
           </tr>
         </table>
@@ -78,7 +78,7 @@
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat == 'research' %}
+          {% if cat == 'Research' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
@@ -139,7 +139,8 @@
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat == 'Intel' %}
+          {% if cat == 'research' %}
+          <!-- to Exclude the Intel Type I named it No_Intel -->
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
