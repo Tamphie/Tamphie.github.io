@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Akashi Cup Resistance Sensor System Design"
+date:   2024-8-10 21:21:53 +00:00
+image: /images/circuit.png
+categories: XJTU
+course: "Undergraduate Mechanical Engineering Innovation Competition"
+poster: /pdfs/report.pdf
+
+---
+This project, which earned First Prize in the 2024 China College Students Mechanical Engineering Innovation and Creativity Competition, focused on developing a high-accuracy resistance measurement system. It involved designing an optimized PCB circuit board and deploying an embedded application on a Raspberry Pi 3 Model B, ensuring efficient and reliable performance.
