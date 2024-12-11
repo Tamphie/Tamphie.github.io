@@ -4,7 +4,7 @@ title:  "Low-level Motion Skills for Manipulation"
 date:   2024-8-05 21:21:53 +00:00
 image: /images/motion.jpg
 categories: current
-# course: "16-741 Mechanics of Manipulation"
+course: "AdapComp,NUS"
 # author: "<strong>Tongmiao Xu</strong>,Tianrun Hu"
 video: https://youtube.com/shorts/QPWtQzla0Jk?si=lQayXjgqbNUSvfhf
 code: https://github.com/RobotIL-rls/RobotIL

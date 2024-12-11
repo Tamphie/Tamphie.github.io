@@ -7,6 +7,7 @@ image: /images/fail_infer.gif
 categories: current
 # course: "16-741 Mechanics of Manipulation"
 author: "Tongmiao Xu"
+course: "AdapComp,NUS"
 # authors: "<strong>Tongmiao Xu</strong>, Hanbo Zhang, David Hsu"
 # video: https://www.youtube.com/watch?v=kTuZnmyR4Kc
 proposal: /pdfs/objectcentric.pdf
