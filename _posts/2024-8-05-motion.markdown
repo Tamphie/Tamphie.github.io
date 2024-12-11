@@ -7,8 +7,6 @@ categories: NUS
 # course: "16-741 Mechanics of Manipulation"
 author: "<strong>Tongmiao Xu</strong>,Tianrun Hu"
 video: https://youtube.com/shorts/QPWtQzla0Jk?si=lQayXjgqbNUSvfhf
-# paper: /pdfs/objectcentric.pdf
 code: https://github.com/RobotIL-rls/RobotIL
 ---
 With Tianrun Hu, we designed some manipulation tasks and solved them with imitation learning, while also performing ablation studies and quantitative benchmarking to assess different design choices and identify the optimal configuration for improved task execution.
-

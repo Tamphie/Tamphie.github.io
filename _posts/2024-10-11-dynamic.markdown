@@ -3,7 +3,7 @@ layout: post
 title:  "Dynamic Vision-Enabled Machine Condition Monitoring: A Point Cloud-Based Diagnostic Methodology"
 date:   2024-10-11 22:21:59 +00:00
 image: /images/roi_sample.png
-categories: research
+categories: XJTU
 author: "Tongmiao Xu"
 authors: "<strong>Tongmiao Xu</strong>, Dehao Cai, Shaojie Yang, Shuai Gu, Xiang Li"
 venue: "2024 IEEE Global Rel&PHM-Beijing"
@@ -15,3 +15,5 @@ paper: /pdfs/machine.pdf
 # website: https://leonidk.github.io/venue_scores/
 ---
 This paper is about the application of event cameras as Dynamic Vision Sensors for machine fault diagnosis, classifying bearing states as healthy, inner race fault, ball fault, or outer race fault using a deep learning-based classification method (PointNet ++ )
+
+[Poster PDF](/pdfs/machine.pdf){:target="_blank"}
