@@ -12,7 +12,7 @@ paper: /pdfs/machine.pdf
 # arxiv: https://arxiv.org/abs/1904.12573
 # slides: /pdfs/jcdl2019.pdf
 video: https://youtu.be/kuyhhvMJwpQ
-code: https://github.com/leonidk/venue_scores
+code: https://github.com/Tamphie/Dynamic_vision
 # website: https://leonidk.github.io/venue_scores/
 ---
 This paper is about the application of event cameras as Dynamic Vision Sensors for machine fault diagnosis, classifying bearing states as healthy, inner race fault, ball fault, or outer race fault using a deep learning-based classification method (PointNet ++ )
