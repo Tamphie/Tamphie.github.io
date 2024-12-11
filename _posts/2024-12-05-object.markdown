@@ -3,12 +3,12 @@ layout: post
 title:  "Decoupling Vision and Motion: Object-Centric Representations for Enhanced Manipulation"
 date:   2024-12-05 21:21:53 +00:00
 image: /images/fail_infer.gif
-categories: NUS
+categories: AdapComp, NUS
 # course: "16-741 Mechanics of Manipulation"
 author: "Tongmiao Xu"
 # authors: "<strong>Tongmiao Xu</strong>, Hanbo Zhang, David Hsu"
 # video: https://www.youtube.com/watch?v=kTuZnmyR4Kc
-paper: /pdfs/objectcentric.pdf
+proposal: /pdfs/objectcentric.pdf
 code: https://github.com/Tamphie/SEIL
 slides: /pdfs/slides.pdf
 ---

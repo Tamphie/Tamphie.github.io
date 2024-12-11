@@ -3,7 +3,7 @@ layout: post
 title:  "Low-level Motion Skills for Manipulation"
 date:   2024-8-05 21:21:53 +00:00
 image: /images/motion.jpg
-categories: NUS
+categories: AdapComp, NUS
 # course: "16-741 Mechanics of Manipulation"
 author: "<strong>Tongmiao Xu</strong>,Tianrun Hu"
 video: https://youtube.com/shorts/QPWtQzla0Jk?si=lQayXjgqbNUSvfhf
