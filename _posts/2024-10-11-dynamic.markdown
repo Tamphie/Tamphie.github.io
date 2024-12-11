@@ -11,6 +11,7 @@ venue: "2024 IEEE Global Rel&PHM-Beijing"
 paper: /pdfs/machine.pdf
 # arxiv: https://arxiv.org/abs/1904.12573
 # slides: /pdfs/jcdl2019.pdf
+video: https://youtu.be/kuyhhvMJwpQ
 code: https://github.com/leonidk/venue_scores
 # website: https://leonidk.github.io/venue_scores/
 ---

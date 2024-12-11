@@ -3,11 +3,11 @@ layout: post
 title:  "Tears of Ocean: A Mechatronic Art Installation"
 date:   2023-12-16 21:21:53 +00:00
 image: /images/ocean.png
-categories: Mechatronic Design, UC Berkeley
-# course: "16-741 Mechanics of Manipulation"
+categories: UCBerkeley
+course: "ME102B Mechatronic Design"
 author: "<strong>Tongmiao Xu</strong>,Siyuan Chen, Shangtao Li, Nafees Ahamand"
 video: https://youtu.be/-r8n2o7uCjk?si=4qi3kZQTkCZ7rRVF
-paper: /pdfs/me102b.pdf
+poster: /pdfs/me102b.pdf
 code: https://github.com/RobotIL-rls/RobotIL
 ---
 This project was awarded the Second Prize in Mechatronics Design Social Impact at UC Berkeley. By combining engineering principles with artistic vision, this project consists of a smooth and accurate control system based on haptic feedback and highlights the potential of mechatronics in creating impactful, interactive art installations.
