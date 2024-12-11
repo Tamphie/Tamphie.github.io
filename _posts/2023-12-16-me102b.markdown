@@ -8,6 +8,6 @@ course: "ME102B Mechatronic Design"
 author: "<strong>Tongmiao Xu</strong>,Siyuan Chen, Shangtao Li, Nafees Ahamand"
 video: https://youtu.be/-r8n2o7uCjk?si=4qi3kZQTkCZ7rRVF
 poster: /pdfs/me102b.pdf
-code: https://github.com/RobotIL-rls/RobotIL
+code: https://github.com/Tamphie/Tears-of-Ocean
 ---
 This project was awarded the Second Prize in Mechatronics Design Social Impact at UC Berkeley. By combining engineering principles with artistic vision, this project consists of a smooth and accurate control system based on haptic feedback and highlights the potential of mechatronics in creating impactful, interactive art installations.
