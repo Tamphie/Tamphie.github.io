@@ -15,5 +15,5 @@ thesis: /pdfs/objectcentric.pdf
 code: https://github.com/Tamphie/SEIL
 # slides: /pdfs/slides.pdf
 ---
-A core challenge in robot imitation learning lies in the entanglement between a robot’s policy and its specific camera perspectives and object placements. This makes policy generalization difficult. We tackle this by proposing an objectcentric learning framework that decouples observed object motions (vision) and robot actions (motion), allowing generalization over varying viewpoints and object positions.
+A core challenge in robot imitation learning lies in the entanglement between a robot’s policy and its specific camera perspectives and object placements. This makes policy generalization difficult. We tackle this by proposing an object-centric learning framework that decouples observed object motions (vision) and robot actions (motion), allowing generalization over varying viewpoints and object positions.
 
