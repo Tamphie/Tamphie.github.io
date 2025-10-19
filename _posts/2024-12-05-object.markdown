@@ -15,5 +15,5 @@ thesis: /pdfs/objectcentric.pdf
 code: https://github.com/Tamphie/SEIL
 # slides: /pdfs/slides.pdf
 ---
-In traditional imitation learning scenarios, the learned policy fails to generalize across camera views, object placements, and embodiments. To make decision-making irrelevant to observation perspective and independent of the robot's base coordinate, the policy predictions are designed to be object-centric, with trajectories directly tied to the object.
+A core challenge in robot imitation learning lies in the entanglement between a robot’s policy and its specific camera perspectives and object placements. This makes policy generalization difficult. We tackle this by proposing an objectcentric learning framework that decouples observed object motions (vision) and robot actions (motion), allowing generalization over varying viewpoints and object positions.
 
