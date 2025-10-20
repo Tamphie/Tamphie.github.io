@@ -3,7 +3,7 @@ layout: post
 title:  "Low-level Motion Skills for Manipulation"
 date:   2024-8-05 21:21:53 +00:00
 image: /images/motion.jpg
-categories: current
+categories: past
 course: "AdapComp,NUS"
 tutorial: "/pdfs/collection.pdf"
 # author: "<strong>Tongmiao Xu</strong>,Tianrun Hu"
