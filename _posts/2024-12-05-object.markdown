@@ -10,7 +10,8 @@ course: "AdapComp,NUS"
 # authors: "<strong>Tongmiao Xu</strong>, Hanbo Zhang, David Hsu"
 venue: "2025 EEML Best Poster Award"
 poster: /pdfs/eemlposter.pdf
-video: https://youtu.be/gc_oKZokoeE
+# video: https://youtu.be/gc_oKZokoeE
+video: https://youtube.com/shorts/QPWtQzla0Jk?si=lQayXjgqbNUSvfhf
 thesis: /pdfs/objectcentric.pdf
 code: https://github.com/Tamphie/SEIL
 # slides: /pdfs/slides.pdf
