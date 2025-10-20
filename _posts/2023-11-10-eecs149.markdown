@@ -3,7 +3,7 @@ layout: post
 title:  "Raspberry Pi Based Bluetooth Rescue Rover"
 date:   2023-11-10 21:21:53 +00:00
 image: /images/poster.png
-categories: UCBerkeley
+categories: selected
 course: "EECS149 Introduction to Embedded & Cyber-Physical Systems"
 code: https://github.com/Tamphie/pico-robot-control
 ---
