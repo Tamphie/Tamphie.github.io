@@ -3,8 +3,8 @@ layout: post
 title:  "Akashi Cup Resistance Sensor System Design"
 date:   2024-8-27 21:21:53 +00:00
 image: /images/circuit.png
-categories: XJTU
-course: "Undergraduate Mechanical Engineering Innovation Competition"
+categories: selected
+course: "XJTU Mechanical Engineering Innovation Competition"
 news: /pdfs/report.pdf
 
 ---
