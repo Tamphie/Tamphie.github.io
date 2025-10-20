@@ -4,7 +4,7 @@ title:  "Raspberry Pi Based Bluetooth Rescue Rover"
 date:   2023-11-10 21:21:53 +00:00
 image: /images/poster.png
 categories: selected
-course: "EECS149 Introduction to Embedded & Cyber-Physical Systems"
+course: "UC Berkeley EECS149 Introduction to Embedded & Cyber-Physical Systems"
 code: https://github.com/Tamphie/pico-robot-control
 ---
 This project enhances the 3pi+ 2040 robot by enabling Bluetooth-based motion control using an HC-05 module. A finite state machine (FSM) manages the robot’s operations, while gyroscopes provide localization for accurate navigation and adaptive performance.
