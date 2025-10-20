@@ -148,8 +148,7 @@
               <br>
               <em>{{post.course}}</em>
               <br>
-              <br>
-              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+              <em>{{post.venue}}</em>
               <br>
 
               {% if post.website %}
@@ -213,7 +212,7 @@
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat != 'research' and cat != 'current' %}
+          {% if cat == 'selected' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
